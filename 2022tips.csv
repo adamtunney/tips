@@ -1,5 +1,5 @@
 ,Year,Round,Home,Away,Margin,HomeWin%
-0,2022,1,Melbourne,Western Bulldogs,18.95,65.8
+0,2022,1,Melbourne,Western Bulldogs,18.58,65.5
 1,2022,1,Carlton,Richmond,-2.38,48.0
 2,2022,1,St Kilda,Collingwood,7.33,56.4
 3,2022,1,Geelong Cats,Essendon,6.22,55.2
@@ -8,24 +8,24 @@
 6,2022,1,Hawthorn,North Melbourne,12.65,60.7
 7,2022,1,Adelaide Crows,Fremantle,8.98,57.6
 8,2022,1,West Coast Eagles,Gold Coast Suns,17.03,64.5
-9,2022,2,Western Bulldogs,Carlton,10.543693693693694,27.800000000000004
-10,2022,2,Sydney Swans,Geelong Cats,5.0932432432432435,24.92
-11,2022,2,Collingwood,Adelaide Crows,8.611711711711711,27.76
-12,2022,2,Essendon,Brisbane Lions,-4.348198198198198,19.86
-13,2022,2,Port Adelaide,Hawthorn,23.446846846846846,34.86
-14,2022,2,Gold Coast Suns,Melbourne,-29.42297297297297,7.140000000000001
-15,2022,2,North Melbourne,West Coast Eagles,-3.5427927927927927,20.18
-16,2022,2,Richmond,GWS Giants,13.85945945945946,30.0
-17,2022,2,Fremantle,St Kilda,3.34009009009009,23.919999999999998
-18,2022,3,Western Bulldogs,Sydney Swans,12.258558558558558,29.04
-19,2022,3,Melbourne,Essendon,25.37162162162162,34.92
-20,2022,3,Adelaide Crows,Port Adelaide,-14.385585585585586,13.62
-21,2022,3,GWS Giants,Gold Coast Suns,16.997297297297298,31.34
-22,2022,3,Collingwood,Geelong Cats,-7.482432432432432,18.240000000000002
-23,2022,3,Brisbane Lions,North Melbourne,43.43738738738739,40.28
-24,2022,3,Carlton,Hawthorn,7.575225225225225,26.240000000000002
-25,2022,3,St Kilda,Richmond,-0.7545045045045045,21.8
-26,2022,3,West Coast Eagles,Fremantle,4.491441441441442,24.959999999999997
+9,2022,2,Western Bulldogs,Carlton,11.61,60.0
+10,2022,2,Sydney Swans,Geelong Cats,5.39,55.0
+11,2022,2,Collingwood,Adelaide Crows,9.46,58.9
+12,2022,2,Essendon,Brisbane Lions,-4.27,46.2
+13,2022,2,Port Adelaide,Hawthorn,25.32,72.4
+14,2022,2,Gold Coast Suns,Melbourne,-30.27,23.8
+15,2022,2,North Melbourne,West Coast Eagles,-4.61,45.8
+16,2022,2,Richmond,GWS Giants,14.19,63.0
+17,2022,2,Fremantle,St Kilda,3.55,53.3
+18,2022,3,Western Bulldogs,Sydney Swans,13.5,62.8
+19,2022,3,Melbourne,Essendon,27.62,75.0
+20,2022,3,Adelaide Crows,Port Adelaide,-15.27,35.0
+21,2022,3,GWS Giants,Gold Coast Suns,17.77,67.0
+22,2022,3,Collingwood,Geelong Cats,-7.04,42.7
+23,2022,3,Brisbane Lions,North Melbourne,45.01,86.3
+24,2022,3,Carlton,Hawthorn,7.64,57.2
+25,2022,3,St Kilda,Richmond,-0.96,49.0
+26,2022,3,West Coast Eagles,Fremantle,5.0,54.9
 27,2022,4,Port Adelaide,Melbourne,-6.243693693693694,18.68
 28,2022,4,Geelong Cats,Brisbane Lions,-2.892342342342342,21.16
 29,2022,4,Sydney Swans,North Melbourne,26.865315315315314,35.8
