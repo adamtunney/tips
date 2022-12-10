@@ -1,0 +1,208 @@
+Round Number,Date,Venue,Home,Away
+1,16/03/2023 19:20,MCG,Richmond,Carlton
+1,17/03/2023 19:40,MCG,Geelong Cats,Collingwood
+1,18/03/2023 13:45,Marvel Stadium,North Melbourne,West Coast Eagles
+1,18/03/2023 16:05,Adelaide Oval,Port Adelaide,Brisbane Lions
+1,18/03/2023 19:25,MCG,Melbourne,Western Bulldogs
+1,18/03/2023 19:00,Metricon Stadium,Gold Coast Suns,Sydney Swans
+1,19/03/2023 13:10,GIANTS Stadium,GWS Giants,Adelaide Crows
+1,19/03/2023 15:20,MCG,Hawthorn,Essendon
+1,19/03/2023 16:40,Marvel Stadium,St Kilda,Fremantle
+2,23/03/2023 19:20,MCG,Carlton,Geelong Cats
+2,24/03/2023 18:50,Gabba,Brisbane Lions,Melbourne
+2,25/03/2023 13:45,MCG,Collingwood,Port Adelaide
+2,25/03/2023 16:05,Adelaide Oval,Adelaide Crows,Richmond
+2,25/03/2023 19:25,Marvel Stadium,Western Bulldogs,St Kilda
+2,25/03/2023 16:30,Optus Stadium,Fremantle,North Melbourne
+2,26/03/2023 13:10,SCG,Sydney Swans,Hawthorn
+2,26/03/2023 15:20,Marvel Stadium,Essendon,Gold Coast Suns
+2,26/03/2023 15:20,Optus Stadium,West Coast Eagles,GWS Giants
+3,30/03/2023 19:20,Marvel Stadium,Western Bulldogs,Brisbane Lions
+3,31/03/2023 19:50,MCG,Collingwood,Richmond
+3,1/04/2023 13:45,University of Tasmania Stadium,Hawthorn,North Melbourne
+3,1/04/2023 16:35,GIANTS Stadium,GWS Giants,Carlton
+3,1/04/2023 19:25,MCG,St Kilda,Essendon
+3,1/04/2023 19:00,Adelaide Oval,Port Adelaide,Adelaide Crows
+3,2/04/2023 14:10,Metricon Stadium,Gold Coast Suns,Geelong Cats
+3,2/04/2023 15:20,MCG,Melbourne,Sydney Swans
+3,2/04/2023 15:20,Optus Stadium,Fremantle,West Coast Eagles
+4,6/04/2023 19:35,Gabba,Brisbane Lions,Collingwood
+4,7/04/2023 16:20,Marvel Stadium,North Melbourne,Carlton
+4,8/04/2023 13:15,Adelaide Oval,Adelaide Crows,Fremantle
+4,8/04/2023 16:35,MCG,Richmond,Western Bulldogs
+4,8/04/2023 19:30,Marvel Stadium,St Kilda,Gold Coast Suns
+4,8/04/2023 19:30,SCG,Sydney Swans,Port Adelaide
+4,9/04/2023 14:10,Marvel Stadium,Essendon,GWS Giants
+4,9/04/2023 15:20,Optus Stadium,West Coast Eagles,Melbourne
+4,10/04/2023 15:20,MCG,Geelong Cats,Hawthorn
+5,13/04/2023 19:10,Adelaide Oval,Adelaide Crows,Carlton
+5,14/04/2023 16:40,Norwood Oval,Fremantle,Gold Coast Suns
+5,14/04/2023 19:40,Adelaide Oval,Sydney Swans,Richmond
+5,15/04/2023 12:40,Adelaide Hills,North Melbourne,Brisbane Lions
+5,15/04/2023 15:40,Adelaide Oval,Essendon,Melbourne
+5,15/04/2023 19:20,Adelaide Oval,Port Adelaide,Western Bulldogs
+5,16/04/2023 12:40,Adelaide Oval,Geelong Cats,West Coast Eagles
+5,16/04/2023 14:50,Norwood Oval,Hawthorn,GWS Giants
+5,16/04/2023 16:20,Adelaide Oval,St Kilda,Collingwood
+6,21/04/2023 18:10,Optus Stadium,Fremantle,Western Bulldogs
+6,22/04/2023 13:15,Adelaide Oval,Port Adelaide,West Coast Eagles
+6,22/04/2023 16:35,Manuka Oval,GWS Giants,Brisbane Lions
+6,22/04/2023 19:25,GMHBA Stadium,Geelong Cats,Sydney Swans
+6,23/04/2023 13:10,University of Tasmania Stadium,Hawthorn,Adelaide Crows
+6,23/04/2023 15:20,Marvel Stadium,Carlton,St Kilda
+6,23/04/2023 16:40,Metricon Stadium,Gold Coast Suns,North Melbourne
+6,24/04/2023 19:20,MCG,Melbourne,Richmond
+6,25/04/2023 15:20,MCG,Collingwood,Essendon
+7,28/04/2023 19:50,Marvel Stadium,St Kilda,Port Adelaide
+7,29/04/2023 13:45,Gabba,Brisbane Lions,Fremantle
+7,29/04/2023 14:10,SCG,Sydney Swans,GWS Giants
+7,29/04/2023 16:35,Marvel Stadium,Western Bulldogs,Hawthorn
+7,29/04/2023 19:25,MCG,Melbourne,North Melbourne
+7,29/04/2023 17:30,Optus Stadium,West Coast Eagles,Carlton
+7,30/04/2023 13:10,MCG,Essendon,Geelong Cats
+7,30/04/2023 15:20,Marvel Stadium,Richmond,Gold Coast Suns
+7,30/04/2023 16:10,Adelaide Oval,Adelaide Crows,Collingwood
+8,5/05/2023 19:50,Marvel Stadium,Carlton,Brisbane Lions
+8,6/05/2023 13:45,MCG,Richmond,West Coast Eagles
+8,6/05/2023 14:10,GMHBA Stadium,Geelong Cats,Adelaide Crows
+8,6/05/2023 16:35,Metricon Stadium,Gold Coast Suns,Melbourne
+8,6/05/2023 19:25,Manuka Oval,GWS Giants,Western Bulldogs
+8,6/05/2023 17:30,Optus Stadium,Fremantle,Hawthorn
+8,7/05/2023 12:40,Adelaide Oval,Port Adelaide,Essendon
+8,7/05/2023 15:20,MCG,Collingwood,Sydney Swans
+8,7/05/2023 16:40,Marvel Stadium,North Melbourne,St Kilda
+9,12/05/2023 19:20,MCG,Richmond,Geelong Cats
+9,12/05/2023 18:40,Optus Stadium,West Coast Eagles,Gold Coast Suns
+9,13/05/2023 13:45,SCG,Sydney Swans,Fremantle
+9,13/05/2023 14:10,Blundstone Arena,North Melbourne,Port Adelaide
+9,13/05/2023 16:35,MCG,Hawthorn,Melbourne
+9,13/05/2023 19:25,Gabba,Brisbane Lions,Essendon
+9,13/05/2023 19:30,Marvel Stadium,Carlton,Western Bulldogs
+9,14/05/2023 12:40,Adelaide Oval,Adelaide Crows,St Kilda
+9,14/05/2023 16:40,MCG,Collingwood,GWS Giants
+10,19/05/2023 19:20,Adelaide Oval,Port Adelaide,Melbourne
+10,20/05/2023 13:45,Marvel Stadium,North Melbourne,Sydney Swans
+10,20/05/2023 14:10,Mars Stadium,Western Bulldogs,Adelaide Crows
+10,20/05/2023 14:35,Optus Stadium,Fremantle,Geelong Cats
+10,20/05/2023 19:30,Gabba,Brisbane Lions,Gold Coast Suns
+10,20/05/2023 19:40,MCG,Essendon,Richmond
+10,21/05/2023 13:10,University of Tasmania Stadium,Hawthorn,West Coast Eagles
+10,21/05/2023 15:20,MCG,Carlton,Collingwood
+10,21/05/2023 16:40,GIANTS Stadium,GWS Giants,St Kilda
+11,26/05/2023 19:50,SCG,Sydney Swans,Carlton
+11,27/05/2023 13:45,Marvel Stadium,St Kilda,Hawthorn
+11,27/05/2023 14:10,MCG,Melbourne,Fremantle
+11,27/05/2023 16:35,GMHBA Stadium,Geelong Cats,GWS Giants
+11,27/05/2023 18:55,TIO Stadium,Gold Coast Suns,Western Bulldogs
+11,27/05/2023 17:30,Optus Stadium,West Coast Eagles,Essendon
+11,28/05/2023 13:10,MCG,Richmond,Port Adelaide
+11,28/05/2023 15:20,Marvel Stadium,Collingwood,North Melbourne
+11,28/05/2023 16:10,Adelaide Oval,Adelaide Crows,Brisbane Lions
+12,2/06/2023 19:50,MCG,Melbourne,Carlton
+12,3/06/2023 13:15,Adelaide Oval,Port Adelaide,Hawthorn
+12,3/06/2023 14:35,Optus Stadium,West Coast Eagles,Collingwood
+12,3/06/2023 19:25,Marvel Stadium,Western Bulldogs,Geelong Cats
+12,3/06/2023 19:00,TIO Stadium,Gold Coast Suns,Adelaide Crows
+12,4/06/2023 13:10,GIANTS Stadium,GWS Giants,Richmond
+12,4/06/2023 16:40,Marvel Stadium,Essendon,North Melbourne
+13,8/06/2023 19:20,SCG,Sydney Swans,St Kilda
+13,9/06/2023 19:50,Marvel Stadium,Western Bulldogs,Port Adelaide
+13,10/06/2023 13:45,MCG,Hawthorn,Brisbane Lions
+13,10/06/2023 16:05,Adelaide Oval,Adelaide Crows,West Coast Eagles
+13,10/06/2023 17:25,Optus Stadium,Fremantle,Richmond
+13,11/06/2023 15:20,Blundstone Arena,North Melbourne,GWS Giants
+13,11/06/2023 19:15,MCG,Carlton,Essendon
+13,12/06/2023 15:20,MCG,Melbourne,Collingwood
+14,15/06/2023 19:10,Adelaide Oval,Port Adelaide,Geelong Cats
+14,16/06/2023 19:50,Gabba,Brisbane Lions,Sydney Swans
+14,17/06/2023 16:35,GIANTS Stadium,GWS Giants,Fremantle
+14,17/06/2023 19:25,MCG,Richmond,St Kilda
+14,18/06/2023 13:10,MCG,Carlton,Gold Coast Suns
+14,18/06/2023 16:40,Marvel Stadium,North Melbourne,Western Bulldogs
+15,22/06/2023 19:20,GMHBA Stadium,Geelong Cats,Melbourne
+15,23/06/2023 19:50,Marvel Stadium,St Kilda,Brisbane Lions
+15,24/06/2023 16:35,SCG,Sydney Swans,West Coast Eagles
+15,24/06/2023 17:25,Optus Stadium,Fremantle,Essendon
+15,25/06/2023 13:10,MCG,Collingwood,Adelaide Crows
+15,25/06/2023 16:40,Metricon Stadium,Gold Coast Suns,Hawthorn
+16,29/06/2023 12:00,Gabba,Brisbane Lions,Richmond
+16,29/06/2023 12:00,MCG,Essendon,Port Adelaide
+16,29/06/2023 12:00,Metricon Stadium,Gold Coast Suns,Collingwood
+16,29/06/2023 12:00,MCG,Hawthorn,Carlton
+16,29/06/2023 12:00,SCG,Sydney Swans,Geelong Cats
+16,29/06/2023 12:00,Marvel Stadium,Western Bulldogs,Fremantle
+16,29/06/2023 12:00,Adelaide Oval,Adelaide Crows,North Melbourne
+16,29/06/2023 12:00,TIO Traeger Park,Melbourne,GWS Giants
+16,29/06/2023 12:00,Optus Stadium,West Coast Eagles,St Kilda
+17,6/07/2023 12:00,Gabba,Brisbane Lions,West Coast Eagles
+17,6/07/2023 12:00,Marvel Stadium,Essendon,Adelaide Crows
+17,6/07/2023 12:00,GMHBA Stadium,Geelong Cats,North Melbourne
+17,6/07/2023 12:00,GIANTS Stadium,GWS Giants,Hawthorn
+17,6/07/2023 12:00,MCG,Richmond,Sydney Swans
+17,6/07/2023 12:00,Marvel Stadium,St Kilda,Melbourne
+17,6/07/2023 12:00,Marvel Stadium,Western Bulldogs,Collingwood
+17,6/07/2023 12:00,Adelaide Oval,Port Adelaide,Gold Coast Suns
+17,6/07/2023 12:00,Optus Stadium,Fremantle,Carlton
+18,13/07/2023 12:00,Marvel Stadium,Carlton,Port Adelaide
+18,13/07/2023 12:00,MCG,Collingwood,Fremantle
+18,13/07/2023 12:00,GMHBA Stadium,Geelong Cats,Essendon
+18,13/07/2023 12:00,Metricon Stadium,Gold Coast Suns,St Kilda
+18,13/07/2023 12:00,MCG,Melbourne,Brisbane Lions
+18,13/07/2023 12:00,Marvel Stadium,North Melbourne,Hawthorn
+18,13/07/2023 12:00,SCG,Sydney Swans,Western Bulldogs
+18,13/07/2023 12:00,Adelaide Oval,Adelaide Crows,GWS Giants
+18,13/07/2023 12:00,Optus Stadium,West Coast Eagles,Richmond
+19,21/07/2023 12:00,Gabba,Brisbane Lions,Geelong Cats
+19,21/07/2023 12:00,Marvel Stadium,Carlton,West Coast Eagles
+19,21/07/2023 12:00,Marvel Stadium,Essendon,Western Bulldogs
+19,21/07/2023 12:00,Manuka Oval,GWS Giants,Gold Coast Suns
+19,21/07/2023 12:00,MCG,Melbourne,Adelaide Crows
+19,21/07/2023 12:00,MCG,Richmond,Hawthorn
+19,21/07/2023 12:00,Marvel Stadium,St Kilda,North Melbourne
+19,21/07/2023 12:00,Adelaide Oval,Port Adelaide,Collingwood
+19,21/07/2023 12:00,Optus Stadium,Fremantle,Sydney Swans
+20,28/07/2023 12:00,MCG,Collingwood,Carlton
+20,28/07/2023 12:00,Marvel Stadium,Essendon,Sydney Swans
+20,28/07/2023 12:00,GMHBA Stadium,Geelong Cats,Fremantle
+20,28/07/2023 12:00,Metricon Stadium,Gold Coast Suns,Brisbane Lions
+20,28/07/2023 12:00,Marvel Stadium,Hawthorn,St Kilda
+20,28/07/2023 12:00,MCG,Richmond,Melbourne
+20,28/07/2023 12:00,Mars Stadium,Western Bulldogs,GWS Giants
+20,28/07/2023 12:00,Adelaide Oval,Adelaide Crows,Port Adelaide
+20,28/07/2023 12:00,Optus Stadium,West Coast Eagles,North Melbourne
+21,4/08/2023 12:00,Marvel Stadium,Essendon,West Coast Eagles
+21,4/08/2023 12:00,GMHBA Stadium,Geelong Cats,Port Adelaide
+21,4/08/2023 12:00,GIANTS Stadium,GWS Giants,Sydney Swans
+21,4/08/2023 12:00,MCG,Hawthorn,Collingwood
+21,4/08/2023 12:00,Blundstone Arena,North Melbourne,Melbourne
+21,4/08/2023 12:00,Marvel Stadium,St Kilda,Carlton
+21,4/08/2023 12:00,Marvel Stadium,Western Bulldogs,Richmond
+21,4/08/2023 12:00,Adelaide Oval,Adelaide Crows,Gold Coast Suns
+21,4/08/2023 12:00,Optus Stadium,Fremantle,Brisbane Lions
+22,11/08/2023 12:00,MCG,Carlton,Melbourne
+22,11/08/2023 12:00,Gabba,Brisbane Lions,Adelaide Crows
+22,11/08/2023 12:00,MCG,Collingwood,Geelong Cats
+22,11/08/2023 12:00,University of Tasmania Stadium,Hawthorn,Western Bulldogs
+22,11/08/2023 12:00,Marvel Stadium,North Melbourne,Essendon
+22,11/08/2023 12:00,Marvel Stadium,St Kilda,Richmond
+22,11/08/2023 12:00,SCG,Sydney Swans,Gold Coast Suns
+22,11/08/2023 12:00,Adelaide Oval,Port Adelaide,GWS Giants
+22,11/08/2023 12:00,Optus Stadium,West Coast Eagles,Fremantle
+23,18/08/2023 12:00,Marvel Stadium,Collingwood,Brisbane Lions
+23,18/08/2023 12:00,Metricon Stadium,Gold Coast Suns,Carlton
+23,18/08/2023 12:00,GIANTS Stadium,GWS Giants,Essendon
+23,18/08/2023 12:00,MCG,Melbourne,Hawthorn
+23,18/08/2023 12:00,MCG,Richmond,North Melbourne
+23,18/08/2023 12:00,Marvel Stadium,St Kilda,Geelong Cats
+23,18/08/2023 12:00,Marvel Stadium,Western Bulldogs,West Coast Eagles
+23,18/08/2023 12:00,Adelaide Oval,Adelaide Crows,Sydney Swans
+23,18/08/2023 12:00,Optus Stadium,Fremantle,Port Adelaide
+24,25/08/2023 12:00,Gabba,Brisbane Lions,St Kilda
+24,25/08/2023 12:00,Marvel Stadium,Carlton,GWS Giants
+24,25/08/2023 12:00,MCG,Essendon,Collingwood
+24,25/08/2023 12:00,GMHBA Stadium,Geelong Cats,Western Bulldogs
+24,25/08/2023 12:00,MCG,Hawthorn,Fremantle
+24,25/08/2023 12:00,Blundstone Arena,North Melbourne,Gold Coast Suns
+24,25/08/2023 12:00,SCG,Sydney Swans,Melbourne
+24,25/08/2023 12:00,Adelaide Oval,Port Adelaide,Richmond
+24,25/08/2023 12:00,Optus Stadium,West Coast Eagles,Adelaide Crows
