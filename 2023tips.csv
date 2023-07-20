@@ -152,15 +152,15 @@
 150,2023,18,Adelaide Crows,GWS Giants,23.06,76.9
 151,2023,18,North Melbourne,Hawthorn,-13.55,33.2
 152,2023,18,West Coast Eagles,Richmond,-31.89,15.9
-153,2023,19,Essendon,Western Bulldogs,-8.55,39.6
-154,2023,19,Richmond,Hawthorn,21.94,76.1
-155,2023,19,Carlton,West Coast Eagles,53.72,95.2
-156,2023,19,Brisbane Lions,Geelong Cats,13.59,66.7
-157,2023,19,Fremantle,Sydney Swans,1.15,51.5
-158,2023,19,Port Adelaide,Collingwood,17.63,71.5
-159,2023,19,GWS Giants,Gold Coast Suns,-0.44,49.4
-160,2023,19,Melbourne,Adelaide Crows,18.14,72.3
-161,2023,19,St Kilda,North Melbourne,27.27,80.5
+153,2023,19,Essendon,Western Bulldogs,-8.85,39.2
+154,2023,19,Richmond,Hawthorn,22.16,76.3
+155,2023,19,Carlton,West Coast Eagles,50.59,94.2
+156,2023,19,Brisbane Lions,Geelong Cats,11.83,64.6
+157,2023,19,Fremantle,Sydney Swans,-1.84,47.7
+158,2023,19,Port Adelaide,Collingwood,18.7,72.6
+159,2023,19,GWS Giants,Gold Coast Suns,2.45,53.1
+160,2023,19,Melbourne,Adelaide Crows,20.05,74.4
+161,2023,19,St Kilda,North Melbourne,27.66,80.8
 162,2023,20,Collingwood,Carlton,1.06,51.3
 163,2023,20,Geelong Cats,Fremantle,30.29,83.7
 164,2023,20,Western Bulldogs,GWS Giants,14.57,68.1
@@ -179,30 +179,30 @@
 177,2023,21,North Melbourne,Melbourne,-41.72,9.5
 178,2023,21,St Kilda,Carlton,-9.05,38.7
 179,2023,21,Fremantle,Brisbane Lions,-8.76,39.3
-180,2023,22,Collingwood,Geelong Cats,-1.96,47.349999999999994
-181,2023,22,North Melbourne,Essendon,-23.1095,22.400000000000002
-182,2023,22,Sydney Swans,Gold Coast Suns,16.83,69.5
-183,2023,22,Brisbane Lions,Adelaide Crows,24.5245,76.0
-184,2023,22,Carlton,Melbourne,-11.332,34.75
-185,2023,22,West Coast Eagles,Fremantle,-34.1695,13.0
-186,2023,22,Hawthorn,Western Bulldogs,-18.27,26.650000000000002
-187,2023,22,St Kilda,Richmond,-3.907,44.9
-188,2023,22,Port Adelaide,GWS Giants,31.584,82.65
-189,2023,23,Collingwood,Brisbane Lions,0.702,50.4
-190,2023,23,Richmond,North Melbourne,37.848,86.1
-191,2023,23,Gold Coast Suns,Carlton,-1.737,46.0
-192,2023,23,GWS Giants,Essendon,4.2415,54.7
-193,2023,23,St Kilda,Geelong Cats,-9.9175,37.05
-194,2023,23,Adelaide Crows,Sydney Swans,13.049,65.95
-195,2023,23,Western Bulldogs,West Coast Eagles,53.9835,94.85
-196,2023,23,Melbourne,Hawthorn,31.6865,84.65
-197,2023,23,Fremantle,Port Adelaide,-10.3515,36.55
-198,2023,24,Brisbane Lions,St Kilda,26.1635,79.45
-199,2023,24,Carlton,GWS Giants,18.7245,73.0
-200,2023,24,Essendon,Collingwood,-7.905,39.75
-201,2023,24,Geelong Cats,Western Bulldogs,12.3325,64.1
-202,2023,24,Hawthorn,Fremantle,-2.828,45.45
-203,2023,24,North Melbourne,Gold Coast Suns,-21.4445,27.250000000000004
-204,2023,24,Sydney Swans,Melbourne,-7.2005,41.05
-205,2023,24,Port Adelaide,Richmond,20.8235,72.75
-206,2023,24,West Coast Eagles,Adelaide Crows,-38.547,12.9
+180,2023,22,Collingwood,Geelong Cats,-5.0335,45.0
+181,2023,22,North Melbourne,Essendon,-20.679,25.2
+182,2023,22,Sydney Swans,Gold Coast Suns,16.793,69.45
+183,2023,22,Brisbane Lions,Adelaide Crows,22.3995,74.3
+184,2023,22,Carlton,Melbourne,-8.3465,41.15
+185,2023,22,West Coast Eagles,Fremantle,-32.586,14.6
+186,2023,22,Hawthorn,Western Bulldogs,-14.6205,31.25
+187,2023,22,St Kilda,Richmond,-5.32,43.25
+188,2023,22,Port Adelaide,GWS Giants,26.196,78.3
+189,2023,23,Collingwood,Brisbane Lions,0.919,52.300000000000004
+190,2023,23,Richmond,North Melbourne,39.9275,86.5
+191,2023,23,Gold Coast Suns,Carlton,-0.658,48.4
+192,2023,23,GWS Giants,Essendon,9.7645,62.5
+193,2023,23,St Kilda,Geelong Cats,-12.9,32.550000000000004
+194,2023,23,Adelaide Crows,Sydney Swans,12.0725,64.05
+195,2023,23,Western Bulldogs,West Coast Eagles,51.7495,94.45
+196,2023,23,Melbourne,Hawthorn,29.0935,81.6
+197,2023,23,Fremantle,Port Adelaide,-8.3065,40.75
+198,2023,24,Brisbane Lions,St Kilda,27.484,79.14999999999999
+199,2023,24,Carlton,GWS Giants,19.404,72.89999999999999
+200,2023,24,Essendon,Collingwood,-14.195,32.800000000000004
+201,2023,24,Geelong Cats,Western Bulldogs,16.228,67.55
+202,2023,24,Hawthorn,Fremantle,0.0955,51.0
+203,2023,24,North Melbourne,Gold Coast Suns,-23.572,23.9
+204,2023,24,Sydney Swans,Melbourne,-6.154,42.65
+205,2023,24,Port Adelaide,Richmond,16.7015,69.15
+206,2023,24,West Coast Eagles,Adelaide Crows,-38.2375,12.9
