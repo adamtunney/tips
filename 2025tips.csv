@@ -1,10 +1,10 @@
 ,Year,Round,Home,Away,Margin,HomeWin%
 0,2025,0,Sydney Swans,Hawthorn,-8.46,43.5
-1,2025,0,GWS GIANTS,Collingwood,-0.52,49.6
+1,2025,0,GWS GIANTS,Collingwood,0.17,50.1
 2,2025,1,Richmond,Carlton,-11.95,40.7
-3,2025,1,Hawthorn,Essendon,18.55,65.2
+3,2025,1,Hawthorn,Essendon,16.08,62.9
 4,2025,1,Geelong Cats,Fremantle,38.44,78.6
-5,2025,1,Sydney Swans,Brisbane Lions,-9.31,42.4
+5,2025,1,Sydney Swans,Brisbane Lions,-10.03,41.8
 6,2025,1,Western Bulldogs,North Melbourne,55.92,88.0
 7,2025,1,Collingwood,Port Adelaide,7.79,56.4
 8,2025,1,Adelaide Crows,St Kilda,5.61,54.3
@@ -19,11 +19,11 @@
 17,2025,2,North Melbourne,Melbourne,-35.14,25.9
 18,2025,2,Fremantle,Sydney Swans,8.53,57.4
 19,2025,3,Essendon,Port Adelaide,-10.97,40.0
-20,2025,3,Carlton,Western Bulldogs,-21.801,26.700000000000003
-21,2025,3,Melbourne,Gold Coast SUNS,-0.336,49.0
-22,2025,3,St Kilda,Richmond,18.665,70.39999999999999
-23,2025,3,Hawthorn,GWS GIANTS,13.197,65.60000000000001
-24,2025,3,Brisbane Lions,Geelong Cats,12.503,62.6
+20,2025,3,Carlton,Western Bulldogs,-11.16,40.3
+21,2025,3,Melbourne,Gold Coast SUNS,11.77,61.0
+22,2025,3,St Kilda,Richmond,29.85,76.7
+23,2025,3,Hawthorn,GWS GIANTS,14.56,63.7
+24,2025,3,Brisbane Lions,Geelong Cats,22.39,69.7
 25,2025,3,Adelaide Crows,North Melbourne,31.478,80.9
 26,2025,3,West Coast Eagles,Fremantle,-19.071,28.000000000000004
 27,2025,4,Collingwood,Carlton,1.445,50.2
