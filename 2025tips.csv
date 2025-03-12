@@ -1,7 +1,7 @@
 ,Year,Round,Home,Away,Margin,HomeWin%
 0,2025,0,Sydney Swans,Hawthorn,-8.46,43.5
 1,2025,0,GWS GIANTS,Collingwood,0.17,50.1
-2,2025,1,Richmond,Carlton,-11.94,40.4
+2,2025,1,Richmond,Carlton,-15.18,37.8
 3,2025,1,Hawthorn,Essendon,16.26,62.0
 4,2025,1,Geelong Cats,Fremantle,38.47,76.2
 5,2025,1,Sydney Swans,Brisbane Lions,-12.65,40.7
@@ -26,183 +26,183 @@
 24,2025,3,Brisbane Lions,Geelong Cats,22.41,67.8
 25,2025,3,Adelaide Crows,North Melbourne,43.38,83.5
 26,2025,3,West Coast Eagles,Fremantle,-19.09,33.0
-27,2025,4,Collingwood,Carlton,1.445,50.2
-28,2025,4,Geelong Cats,Melbourne,17.183,67.4
-29,2025,4,Gold Coast SUNS,Adelaide Crows,-0.44,49.0
-30,2025,4,Richmond,Brisbane Lions,-35.084,14.899999999999999
-31,2025,4,North Melbourne,Sydney Swans,-41.443,11.4
-32,2025,4,GWS GIANTS,West Coast Eagles,27.334,78.7
-33,2025,4,Port Adelaide,St Kilda,12.83,63.800000000000004
-34,2025,4,Fremantle,Western Bulldogs,-11.416,35.6
-35,2025,5,Adelaide Crows,Geelong Cats,-18.877,29.9
-36,2025,5,Collingwood,Sydney Swans,-2.204,46.9
-37,2025,5,North Melbourne,Gold Coast SUNS,-36.563,16.900000000000002
-38,2025,5,Carlton,West Coast Eagles,18.984,68.2
-39,2025,5,Western Bulldogs,Brisbane Lions,-1.399,47.8
-40,2025,5,Melbourne,Essendon,-13.88,36.1
-41,2025,5,Richmond,Fremantle,-14.576,34.1
-42,2025,5,St Kilda,GWS GIANTS,-1.445,47.3
-43,2025,5,Port Adelaide,Hawthorn,-2.226,48.699999999999996
-44,2025,6,Brisbane Lions,Collingwood,22.897,70.89999999999999
-45,2025,6,North Melbourne,Carlton,-43.7,12.6
-46,2025,6,West Coast Eagles,Essendon,-25.541,25.1
-47,2025,6,Melbourne,Fremantle,0.286,48.5
-48,2025,6,Adelaide Crows,GWS GIANTS,-0.944,49.2
-49,2025,6,Richmond,Gold Coast SUNS,-10.888,37.1
-50,2025,6,Sydney Swans,Port Adelaide,-11.853,36.8
-51,2025,6,Western Bulldogs,St Kilda,17.377,68.7
-52,2025,6,Geelong Cats,Hawthorn,1.326,51.7
-53,2025,7,Melbourne,Richmond,11.72,61.199999999999996
-54,2025,7,Collingwood,Essendon,1.602,50.4
-55,2025,7,Fremantle,Adelaide Crows,1.139,49.9
-56,2025,7,St Kilda,Brisbane Lions,-17.667,31.2
-57,2025,7,Port Adelaide,North Melbourne,45.294,87.8
-58,2025,7,GWS GIANTS,Western Bulldogs,-20.29,29.9
-59,2025,7,Gold Coast SUNS,Sydney Swans,-3.297,44.1
-60,2025,7,Carlton,Geelong Cats,-23.605,24.4
-61,2025,7,Hawthorn,West Coast Eagles,41.621,89.4
-62,2025,8,Essendon,North Melbourne,22.077,74.4
-63,2025,8,St Kilda,Fremantle,8.559,59.699999999999996
-64,2025,8,Western Bulldogs,Port Adelaide,8.654,59.199999999999996
-65,2025,8,Adelaide Crows,Carlton,-6.647,43.5
-66,2025,8,Collingwood,Geelong Cats,-15.399,34.300000000000004
-67,2025,8,West Coast Eagles,Melbourne,-23.235,26.700000000000003
-68,2025,8,Sydney Swans,GWS GIANTS,-5.502,44.5
-69,2025,8,Hawthorn,Richmond,30.84,78.7
-70,2025,8,Brisbane Lions,Gold Coast SUNS,25.441,74.3
-71,2025,9,Fremantle,Collingwood,0.278,48.3
-72,2025,9,St Kilda,Carlton,-5.434,43.3
-73,2025,9,Melbourne,Hawthorn,-28.549,21.8
-74,2025,9,Essendon,Sydney Swans,-12.627,35.6
-75,2025,9,Gold Coast SUNS,Western Bulldogs,-21.087,29.4
-76,2025,9,Port Adelaide,Adelaide Crows,2.933,53.5
-77,2025,9,Richmond,West Coast Eagles,9.575,60.199999999999996
-78,2025,9,Geelong Cats,GWS GIANTS,23.475,73.4
-79,2025,9,North Melbourne,Brisbane Lions,-62.041,5.2
-80,2025,10,Gold Coast SUNS,Hawthorn,-19.528,30.099999999999998
-81,2025,10,Sydney Swans,Carlton,-3.596,45.7
-82,2025,10,Collingwood,Adelaide Crows,3.248,55.400000000000006
-83,2025,10,Port Adelaide,Geelong Cats,-5.558,43.9
-84,2025,10,GWS GIANTS,Fremantle,7.186,57.99999999999999
-85,2025,10,Western Bulldogs,Essendon,13.757,63.5
-86,2025,10,Richmond,North Melbourne,10.851,62.5
-87,2025,10,Brisbane Lions,Melbourne,24.491,73.9
-88,2025,10,West Coast Eagles,St Kilda,-22.2,26.5
-89,2025,11,Geelong Cats,Western Bulldogs,-2.104,46.300000000000004
-90,2025,11,Essendon,Richmond,9.787,60.4
-91,2025,11,Carlton,GWS GIANTS,-4.13,43.7
-92,2025,11,Hawthorn,Brisbane Lions,-3.303,45.5
-93,2025,11,North Melbourne,Collingwood,-48.762,10.299999999999999
-94,2025,11,Fremantle,Port Adelaide,-8.976,39.4
-95,2025,11,Adelaide Crows,West Coast Eagles,22.897,71.39999999999999
-96,2025,11,Melbourne,Sydney Swans,-12.459,37.2
-97,2025,11,St Kilda,Gold Coast SUNS,4.11,54.300000000000004
-98,2025,12,Brisbane Lions,Essendon,20.592,70.19999999999999
-99,2025,12,Collingwood,Hawthorn,-13.017,33.4
-100,2025,12,Gold Coast SUNS,Fremantle,7.562,59.099999999999994
-101,2025,12,GWS GIANTS,Richmond,17.785,69.69999999999999
-102,2025,12,Sydney Swans,Adelaide Crows,-4.591,46.6
-103,2025,12,Melbourne,St Kilda,-15.386,34.699999999999996
-104,2025,12,West Coast Eagles,Geelong Cats,-40.706,14.7
-105,2025,13,Western Bulldogs,Hawthorn,-1.298,48.5
-106,2025,13,Adelaide Crows,Brisbane Lions,-25.142,25.5
-107,2025,13,Richmond,Sydney Swans,-26.514,25.7
-108,2025,13,Geelong Cats,Gold Coast SUNS,25.727,73.8
-109,2025,13,GWS GIANTS,Port Adelaide,-21.588,26.8
-110,2025,13,North Melbourne,West Coast Eagles,-16.333,32.6
-111,2025,13,Carlton,Essendon,-15.314,34.699999999999996
-112,2025,13,Melbourne,Collingwood,-18.436,30.2
-113,2025,14,St Kilda,Western Bulldogs,-18.802,32.300000000000004
-114,2025,14,Hawthorn,Adelaide Crows,5.357,55.1
-115,2025,14,Brisbane Lions,GWS GIANTS,24.884,74.6
-116,2025,14,Essendon,Geelong Cats,-28.735,22.6
-117,2025,14,North Melbourne,Fremantle,-36.989,17.299999999999997
-118,2025,14,Port Adelaide,Melbourne,9.332,58.699999999999996
-119,2025,14,West Coast Eagles,Carlton,-26.913,23.599999999999998
-120,2025,15,Fremantle,Essendon,0.26,49.1
-121,2025,15,Geelong Cats,Brisbane Lions,-0.588,49.0
-122,2025,15,Carlton,North Melbourne,19.959,68.4
-123,2025,15,Port Adelaide,Sydney Swans,3.393,52.5
-124,2025,15,Collingwood,St Kilda,-0.498,48.9
-125,2025,15,GWS GIANTS,Gold Coast SUNS,1.77,52.6
-126,2025,15,Western Bulldogs,Richmond,34.53,80.7
-127,2025,16,Collingwood,West Coast Eagles,34.543,81.6
-128,2025,16,Richmond,Adelaide Crows,-23.719,26.200000000000003
-129,2025,16,Gold Coast SUNS,Melbourne,-0.546,48.0
-130,2025,16,Sydney Swans,Western Bulldogs,-18.627,31.3
-131,2025,16,Hawthorn,North Melbourne,40.614,83.39999999999999
-132,2025,16,Port Adelaide,Carlton,7.384,56.8
-133,2025,16,Fremantle,St Kilda,1.537,51.5
-134,2025,17,Geelong Cats,Richmond,34.26,80.10000000000001
-135,2025,17,St Kilda,Hawthorn,-20.904,29.799999999999997
-136,2025,17,North Melbourne,Western Bulldogs,-62.355,6.1
-137,2025,17,Essendon,Gold Coast SUNS,-4.008,47.599999999999994
-138,2025,17,Carlton,Collingwood,-15.804,34.8
-139,2025,17,Sydney Swans,Fremantle,6.935,57.99999999999999
-140,2025,17,Brisbane Lions,Port Adelaide,8.191,57.9
-141,2025,17,Adelaide Crows,Melbourne,-6.382,44.2
-142,2025,17,West Coast Eagles,GWS GIANTS,-22.551,28.799999999999997
-143,2025,18,GWS GIANTS,Geelong Cats,-21.976,28.7
-144,2025,18,Western Bulldogs,Adelaide Crows,12.942,62.2
-145,2025,18,St Kilda,Sydney Swans,-6.13,43.8
-146,2025,18,Carlton,Brisbane Lions,-27.216,25.0
-147,2025,18,Melbourne,North Melbourne,16.853,65.60000000000001
-148,2025,18,Richmond,Essendon,-26.276,25.8
-149,2025,18,Gold Coast SUNS,Collingwood,-2.301,47.5
-150,2025,18,Port Adelaide,West Coast Eagles,36.114,80.80000000000001
-151,2025,18,Fremantle,Hawthorn,-14.322,38.2
-152,2025,19,Geelong Cats,St Kilda,13.911,62.6
-153,2025,19,Essendon,GWS GIANTS,-8.757,42.0
-154,2025,19,Carlton,Melbourne,-11.679,38.0
-155,2025,19,Collingwood,Fremantle,10.037,61.199999999999996
-156,2025,19,Sydney Swans,North Melbourne,30.716,76.5
-157,2025,19,Brisbane Lions,Western Bulldogs,5.477,54.7
-158,2025,19,Hawthorn,Port Adelaide,-4.989,44.2
-159,2025,19,Adelaide Crows,Gold Coast SUNS,-2.091,46.0
-160,2025,19,West Coast Eagles,Richmond,-7.356,43.7
-161,2025,20,GWS GIANTS,Sydney Swans,-15.434,34.8
-162,2025,20,North Melbourne,Geelong Cats,-62.778,6.7
-163,2025,20,St Kilda,Melbourne,-5.483,44.1
-164,2025,20,Essendon,Western Bulldogs,-32.448,23.5
-165,2025,20,Richmond,Collingwood,-30.52,23.400000000000002
-166,2025,20,Hawthorn,Carlton,2.961,51.9
-167,2025,20,Gold Coast SUNS,Brisbane Lions,-28.612,25.900000000000002
-168,2025,20,Adelaide Crows,Port Adelaide,-24.896,28.999999999999996
-169,2025,20,Fremantle,West Coast Eagles,22.847,71.5
-170,2025,21,Geelong Cats,Port Adelaide,2.628,52.6
-171,2025,21,St Kilda,North Melbourne,26.443,74.8
-172,2025,21,Melbourne,West Coast Eagles,16.536,64.7
-173,2025,21,Western Bulldogs,GWS GIANTS,18.576,67.10000000000001
-174,2025,21,Collingwood,Brisbane Lions,-16.46,34.300000000000004
-175,2025,21,Gold Coast SUNS,Richmond,17.115,65.0
-176,2025,21,Sydney Swans,Essendon,-6.674,43.5
-177,2025,21,Adelaide Crows,Hawthorn,-23.271,30.5
-178,2025,21,Fremantle,Carlton,-3.988,45.0
-179,2025,22,Geelong Cats,Essendon,7.648,58.5
-180,2025,22,GWS GIANTS,North Melbourne,22.952,70.8
-181,2025,22,Carlton,Gold Coast SUNS,-2.505,46.6
-182,2025,22,Richmond,St Kilda,-24.851,26.8
-183,2025,22,Melbourne,Western Bulldogs,-34.192,20.3
-184,2025,22,Hawthorn,Collingwood,0.442,48.8
-185,2025,22,Brisbane Lions,Sydney Swans,13.038,61.1
-186,2025,22,Port Adelaide,Fremantle,16.138,64.1
-187,2025,22,West Coast Eagles,Adelaide Crows,-33.702,21.5
-188,2025,23,North Melbourne,Richmond,-25.651,25.4
-189,2025,23,Essendon,St Kilda,-16.766,33.2
-190,2025,23,Western Bulldogs,West Coast Eagles,43.004,84.3
-191,2025,23,Carlton,Port Adelaide,-22.864,29.599999999999998
-192,2025,23,Hawthorn,Melbourne,6.001,54.900000000000006
-193,2025,23,Gold Coast SUNS,GWS GIANTS,-4.832,46.400000000000006
-194,2025,23,Sydney Swans,Geelong Cats,-20.614,31.7
-195,2025,23,Adelaide Crows,Collingwood,-11.398,39.4
-196,2025,23,Fremantle,Brisbane Lions,-21.481,31.4
-197,2025,24,GWS GIANTS,St Kilda,-5.569,44.800000000000004
-198,2025,24,North Melbourne,Adelaide Crows,-46.444,13.3
-199,2025,24,Western Bulldogs,Fremantle,22.763,70.0
-200,2025,24,Collingwood,Melbourne,-2.1,47.3
-201,2025,24,Richmond,Geelong Cats,-43.677,16.900000000000002
-202,2025,24,Essendon,Carlton,-18.738,31.4
-203,2025,24,Brisbane Lions,Hawthorn,0.815,50.2
-204,2025,24,Gold Coast SUNS,Essendon,-7.376,43.8
-205,2025,24,Port Adelaide,Gold Coast SUNS,11.58,58.5
-206,2025,24,West Coast Eagles,Sydney Swans,-35.93,21.099999999999998
+27,2025,4,Collingwood,Carlton,-2.727,45.5
+28,2025,4,Geelong Cats,Melbourne,17.454,68.5
+29,2025,4,Gold Coast SUNS,Adelaide Crows,2.301,54.2
+30,2025,4,Richmond,Brisbane Lions,-34.67,16.400000000000002
+31,2025,4,North Melbourne,Sydney Swans,-39.65,14.499999999999998
+32,2025,4,GWS GIANTS,West Coast Eagles,27.32,77.8
+33,2025,4,Port Adelaide,St Kilda,11.96,63.1
+34,2025,4,Fremantle,Western Bulldogs,-9.606,39.5
+35,2025,5,Adelaide Crows,Geelong Cats,-20.301,29.599999999999998
+36,2025,5,Collingwood,Sydney Swans,-5.974,43.4
+37,2025,5,North Melbourne,Gold Coast SUNS,-36.767,14.799999999999999
+38,2025,5,Carlton,West Coast Eagles,19.877,71.0
+39,2025,5,Western Bulldogs,Brisbane Lions,-1.529,47.3
+40,2025,5,Melbourne,Essendon,-13.605,32.800000000000004
+41,2025,5,Richmond,Fremantle,-12.887,36.7
+42,2025,5,St Kilda,GWS GIANTS,1.939,50.6
+43,2025,5,Port Adelaide,Hawthorn,2.173,51.7
+44,2025,6,Brisbane Lions,Collingwood,29.658,78.60000000000001
+45,2025,6,North Melbourne,Carlton,-41.8,13.5
+46,2025,6,West Coast Eagles,Essendon,-23.256,25.4
+47,2025,6,Melbourne,Fremantle,-0.845,48.199999999999996
+48,2025,6,Adelaide Crows,GWS GIANTS,2.112,50.6
+49,2025,6,Richmond,Gold Coast SUNS,-11.393,36.8
+50,2025,6,Sydney Swans,Port Adelaide,-13.361,35.199999999999996
+51,2025,6,Western Bulldogs,St Kilda,16.174,67.80000000000001
+52,2025,6,Geelong Cats,Hawthorn,6.828,56.49999999999999
+53,2025,7,Melbourne,Richmond,9.203,60.099999999999994
+54,2025,7,Collingwood,Essendon,-5.549,42.4
+55,2025,7,Fremantle,Adelaide Crows,3.071,52.900000000000006
+56,2025,7,St Kilda,Brisbane Lions,-16.751,32.7
+57,2025,7,Port Adelaide,North Melbourne,46.02,88.0
+58,2025,7,GWS GIANTS,Western Bulldogs,-18.271,30.4
+59,2025,7,Gold Coast SUNS,Sydney Swans,-3.468,46.400000000000006
+60,2025,7,Carlton,Geelong Cats,-22.902,26.700000000000003
+61,2025,7,Hawthorn,West Coast Eagles,43.051,88.4
+62,2025,8,Essendon,North Melbourne,20.423,67.9
+63,2025,8,St Kilda,Fremantle,9.165,59.8
+64,2025,8,Western Bulldogs,Port Adelaide,6.699,57.699999999999996
+65,2025,8,Adelaide Crows,Carlton,-9.337,40.2
+66,2025,8,Collingwood,Geelong Cats,-19.928,27.1
+67,2025,8,West Coast Eagles,Melbourne,-22.922,26.0
+68,2025,8,Sydney Swans,GWS GIANTS,-3.154,44.7
+69,2025,8,Hawthorn,Richmond,30.575,82.3
+70,2025,8,Brisbane Lions,Gold Coast SUNS,26.175,77.10000000000001
+71,2025,9,Fremantle,Collingwood,8.492,59.599999999999994
+72,2025,9,St Kilda,Carlton,-6.787,43.2
+73,2025,9,Melbourne,Hawthorn,-21.568,27.1
+74,2025,9,Essendon,Sydney Swans,-11.259,38.5
+75,2025,9,Gold Coast SUNS,Western Bulldogs,-18.033,33.4
+76,2025,9,Port Adelaide,Adelaide Crows,4.347,56.699999999999996
+77,2025,9,Richmond,West Coast Eagles,10.756,61.0
+78,2025,9,Geelong Cats,GWS GIANTS,24.926,74.7
+79,2025,9,North Melbourne,Brisbane Lions,-64.744,4.7
+80,2025,10,Gold Coast SUNS,Hawthorn,-15.286,32.800000000000004
+81,2025,10,Sydney Swans,Carlton,-5.224,44.5
+82,2025,10,Collingwood,Adelaide Crows,-0.382,49.1
+83,2025,10,Port Adelaide,Geelong Cats,-5.56,43.4
+84,2025,10,GWS GIANTS,Fremantle,5.637,56.3
+85,2025,10,Western Bulldogs,Essendon,13.817,64.7
+86,2025,10,Richmond,North Melbourne,12.072,61.199999999999996
+87,2025,10,Brisbane Lions,Melbourne,25.146,74.3
+88,2025,10,West Coast Eagles,St Kilda,-23.656,24.9
+89,2025,11,Geelong Cats,Western Bulldogs,-1.312,48.3
+90,2025,11,Essendon,Richmond,7.422,54.0
+91,2025,11,Carlton,GWS GIANTS,-0.954,47.099999999999994
+92,2025,11,Hawthorn,Brisbane Lions,-5.818,43.3
+93,2025,11,North Melbourne,Collingwood,-40.007,14.2
+94,2025,11,Fremantle,Port Adelaide,-8.971,39.1
+95,2025,11,Adelaide Crows,West Coast Eagles,20.917,70.8
+96,2025,11,Melbourne,Sydney Swans,-13.028,35.9
+97,2025,11,St Kilda,Gold Coast SUNS,3.961,52.400000000000006
+98,2025,12,Brisbane Lions,Essendon,22.366,71.2
+99,2025,12,Collingwood,Hawthorn,-15.969,31.7
+100,2025,12,Gold Coast SUNS,Fremantle,7.908,59.099999999999994
+101,2025,12,GWS GIANTS,Richmond,18.438,68.2
+102,2025,12,Sydney Swans,Adelaide Crows,-8.177,41.0
+103,2025,12,Melbourne,St Kilda,-13.64,34.2
+104,2025,12,West Coast Eagles,Geelong Cats,-42.194,13.600000000000001
+105,2025,13,Western Bulldogs,Hawthorn,5.445,56.2
+106,2025,13,Adelaide Crows,Brisbane Lions,-26.408,26.200000000000003
+107,2025,13,Richmond,Sydney Swans,-22.3,27.6
+108,2025,13,Geelong Cats,Gold Coast SUNS,23.267,72.0
+109,2025,13,GWS GIANTS,Port Adelaide,-19.153,32.300000000000004
+110,2025,13,North Melbourne,West Coast Eagles,-15.5,33.4
+111,2025,13,Carlton,Essendon,-13.82,35.099999999999994
+112,2025,13,Melbourne,Collingwood,-11.753,36.6
+113,2025,14,St Kilda,Western Bulldogs,-20.69,29.099999999999998
+114,2025,14,Hawthorn,Adelaide Crows,6.523,58.4
+115,2025,14,Brisbane Lions,GWS GIANTS,28.865,77.7
+116,2025,14,Essendon,Geelong Cats,-27.189,25.3
+117,2025,14,North Melbourne,Fremantle,-38.186,17.299999999999997
+118,2025,14,Port Adelaide,Melbourne,9.732,59.5
+119,2025,14,West Coast Eagles,Carlton,-25.509,25.2
+120,2025,15,Fremantle,Essendon,1.043,50.1
+121,2025,15,Geelong Cats,Brisbane Lions,-1.402,49.0
+122,2025,15,Carlton,North Melbourne,21.821,68.0
+123,2025,15,Port Adelaide,Sydney Swans,5.191,55.00000000000001
+124,2025,15,Collingwood,St Kilda,-5.3,43.3
+125,2025,15,GWS GIANTS,Gold Coast SUNS,1.981,52.400000000000006
+126,2025,15,Western Bulldogs,Richmond,35.5,81.6
+127,2025,16,Collingwood,West Coast Eagles,25.107,74.4
+128,2025,16,Richmond,Adelaide Crows,-20.059,28.999999999999996
+129,2025,16,Gold Coast SUNS,Melbourne,0.089,49.5
+130,2025,16,Sydney Swans,Western Bulldogs,-21.992,27.900000000000002
+131,2025,16,Hawthorn,North Melbourne,41.056,84.6
+132,2025,16,Port Adelaide,Carlton,4.965,53.7
+133,2025,16,Fremantle,St Kilda,1.627,51.5
+134,2025,17,Geelong Cats,Richmond,34.229,80.30000000000001
+135,2025,17,St Kilda,Hawthorn,-15.256,33.0
+136,2025,17,North Melbourne,Western Bulldogs,-62.545,6.5
+137,2025,17,Essendon,Gold Coast SUNS,-4.008,45.1
+138,2025,17,Carlton,Collingwood,-8.434,39.7
+139,2025,17,Sydney Swans,Fremantle,1.895,49.7
+140,2025,17,Brisbane Lions,Port Adelaide,10.354,60.6
+141,2025,17,Adelaide Crows,Melbourne,-8.383,41.9
+142,2025,17,West Coast Eagles,GWS GIANTS,-20.856,30.7
+143,2025,18,GWS GIANTS,Geelong Cats,-19.483,30.5
+144,2025,18,Western Bulldogs,Adelaide Crows,15.167,66.9
+145,2025,18,St Kilda,Sydney Swans,-6.0,45.2
+146,2025,18,Carlton,Brisbane Lions,-26.937,24.099999999999998
+147,2025,18,Melbourne,North Melbourne,19.588,66.7
+148,2025,18,Richmond,Essendon,-28.222,23.7
+149,2025,18,Gold Coast SUNS,Collingwood,1.869,51.7
+150,2025,18,Port Adelaide,West Coast Eagles,33.977,78.5
+151,2025,18,Fremantle,Hawthorn,-10.026,40.2
+152,2025,19,Geelong Cats,St Kilda,13.28,61.199999999999996
+153,2025,19,Essendon,GWS GIANTS,-4.908,43.5
+154,2025,19,Carlton,Melbourne,-11.824,38.2
+155,2025,19,Collingwood,Fremantle,5.229,55.800000000000004
+156,2025,19,Sydney Swans,North Melbourne,28.473,74.5
+157,2025,19,Brisbane Lions,Western Bulldogs,7.002,57.099999999999994
+158,2025,19,Hawthorn,Port Adelaide,-5.36,42.0
+159,2025,19,Adelaide Crows,Gold Coast SUNS,-3.81,44.1
+160,2025,19,West Coast Eagles,Richmond,-7.105,41.4
+161,2025,20,GWS GIANTS,Sydney Swans,-13.87,38.1
+162,2025,20,North Melbourne,Geelong Cats,-62.938,6.3
+163,2025,20,St Kilda,Melbourne,-6.638,43.5
+164,2025,20,Essendon,Western Bulldogs,-31.881,22.1
+165,2025,20,Richmond,Collingwood,-22.43,29.099999999999998
+166,2025,20,Hawthorn,Carlton,4.562,54.7
+167,2025,20,Gold Coast SUNS,Brisbane Lions,-29.837,24.099999999999998
+168,2025,20,Adelaide Crows,Port Adelaide,-25.475,27.3
+169,2025,20,Fremantle,West Coast Eagles,23.284,72.1
+170,2025,21,Geelong Cats,Port Adelaide,2.483,50.9
+171,2025,21,St Kilda,North Melbourne,26.97,74.9
+172,2025,21,Melbourne,West Coast Eagles,14.862,64.0
+173,2025,21,Western Bulldogs,GWS GIANTS,23.994,71.1
+174,2025,21,Collingwood,Brisbane Lions,-24.86,26.6
+175,2025,21,Gold Coast SUNS,Richmond,15.126,62.7
+176,2025,21,Sydney Swans,Essendon,-10.124,39.0
+177,2025,21,Adelaide Crows,Hawthorn,-17.46,33.900000000000006
+178,2025,21,Fremantle,Carlton,-2.746,46.0
+179,2025,22,Geelong Cats,Essendon,7.199,55.50000000000001
+180,2025,22,GWS GIANTS,North Melbourne,23.619,69.89999999999999
+181,2025,22,Carlton,Gold Coast SUNS,-2.775,46.6
+182,2025,22,Richmond,St Kilda,-26.986,24.4
+183,2025,22,Melbourne,Western Bulldogs,-32.512,22.5
+184,2025,22,Hawthorn,Collingwood,9.277,58.599999999999994
+185,2025,22,Brisbane Lions,Sydney Swans,17.823,66.2
+186,2025,22,Port Adelaide,Fremantle,14.438,62.1
+187,2025,22,West Coast Eagles,Adelaide Crows,-29.325,24.0
+188,2025,23,North Melbourne,Richmond,-29.033,23.799999999999997
+189,2025,23,Essendon,St Kilda,-17.544,32.9
+190,2025,23,Western Bulldogs,West Coast Eagles,43.845,85.8
+191,2025,23,Carlton,Port Adelaide,-24.369,28.199999999999996
+192,2025,23,Hawthorn,Melbourne,6.197,52.800000000000004
+193,2025,23,Gold Coast SUNS,GWS GIANTS,1.606,49.6
+194,2025,23,Sydney Swans,Geelong Cats,-25.405,27.200000000000003
+195,2025,23,Adelaide Crows,Collingwood,-7.988,43.2
+196,2025,23,Fremantle,Brisbane Lions,-21.395,30.0
+197,2025,24,GWS GIANTS,St Kilda,-7.397,43.4
+198,2025,24,North Melbourne,Adelaide Crows,-45.448,13.600000000000001
+199,2025,24,Western Bulldogs,Fremantle,21.448,69.1
+200,2025,24,Collingwood,Melbourne,-8.73,40.400000000000006
+201,2025,24,Richmond,Geelong Cats,-42.733,17.0
+202,2025,24,Essendon,Carlton,-18.485,32.300000000000004
+203,2025,24,Brisbane Lions,Hawthorn,11.509,61.199999999999996
+204,2025,24,Gold Coast SUNS,Essendon,-8.929,43.7
+205,2025,24,Port Adelaide,Gold Coast SUNS,9.054,57.4
+206,2025,24,West Coast Eagles,Sydney Swans,-33.13,21.8
