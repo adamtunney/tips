@@ -89,7 +89,7 @@
 87,2026,10,Essendon,Walyalup,-13.75,34.4
 88,2026,10,Euro-Yroke,Richmond,40.09,88.0
 89,2026,10,Waalitj Marawar,GWS GIANTS,-28.97,16.9
-90,2026,11,Hawthorn,Kuwarna,18.8,68.8
+90,2026,11,Hawthorn,Kuwarna,19.96,69.9
 91,2026,11,Richmond,Essendon,-9.07,38.7
 92,2026,11,Walyalup,Euro-Yroke,27.97,80.7
 93,2026,11,North Melbourne,Gold Coast SUNS,-14.5,35.5
@@ -113,96 +113,96 @@
 111,2026,13,Sydney Swans,Euro-Yroke,31.58,83.5
 112,2026,13,Essendon,Carlton,-17.46,30.4
 113,2026,13,Collingwood,Narrm,13.72,66.4
-114,2026,14,Western Bulldogs,Kuwarna,8.429,58.25
-115,2026,14,Geelong Cats,Gold Coast SUNS,20.1145,68.65
-116,2026,14,Narrm,Essendon,26.709,72.95
-117,2026,14,North Melbourne,Waalitj Marawar,9.7695,59.3
-118,2026,14,Yartapuulti,Sydney Swans,-19.103,33.2
-119,2026,14,Richmond,Brisbane Lions,-61.172,7.1499999999999995
-120,2026,14,Euro-Yroke,GWS GIANTS,-3.8485,45.25
-121,2026,15,Walyalup,Geelong Cats,-6.156,43.7
-122,2026,15,Gold Coast SUNS,Hawthorn,-10.8805,39.15
-123,2026,15,Kuwarna,Narrm,16.999,64.55
-124,2026,15,GWS GIANTS,Carlton,6.667,55.95
-125,2026,15,Collingwood,Yartapuulti,10.4935,61.45
-126,2026,15,Richmond,North Melbourne,-27.704,26.200000000000003
-127,2026,15,Euro-Yroke,Western Bulldogs,-10.7305,38.4
-128,2026,16,Brisbane Lions,Sydney Swans,7.36,56.8
-129,2026,16,Hawthorn,GWS GIANTS,20.76,69.19999999999999
-130,2026,16,Carlton,Waalitj Marawar,23.5485,70.7
-131,2026,16,Collingwood,Richmond,34.923,78.55
-132,2026,16,Yartapuulti,Kuwarna,-13.1285,38.65
-133,2026,16,North Melbourne,Essendon,4.602,53.949999999999996
-134,2026,16,Walyalup,Gold Coast SUNS,4.91,52.849999999999994
-135,2026,17,Geelong Cats,Brisbane Lions,4.62,53.7
-136,2026,17,Sydney Swans,Western Bulldogs,11.901,60.35
-137,2026,17,Waalitj Marawar,Kuwarna,-38.482,17.4
-138,2026,17,Hawthorn,Narrm,25.0035,72.95
-139,2026,17,GWS GIANTS,Walyalup,-9.1235,41.5
-140,2026,17,Gold Coast SUNS,Collingwood,6.796,55.800000000000004
-141,2026,17,Richmond,Carlton,-31.7915,20.849999999999998
-142,2026,17,Essendon,Euro-Yroke,-26.978,25.75
-143,2026,17,Yartapuulti,North Melbourne,5.913,56.55
-144,2026,18,Walyalup,Sydney Swans,1.766,50.849999999999994
-145,2026,18,Collingwood,North Melbourne,9.745,58.45
-146,2026,18,Euro-Yroke,Yartapuulti,2.884,52.05
-147,2026,18,GWS GIANTS,Geelong Cats,-21.2515,29.95
-148,2026,18,Carlton,Hawthorn,-35.561,19.900000000000002
-149,2026,18,Kuwarna,Gold Coast SUNS,1.567,51.55
-150,2026,18,Western Bulldogs,Waalitj Marawar,40.341,82.39999999999999
-151,2026,18,Narrm,Richmond,36.4435,79.5
-152,2026,18,Brisbane Lions,Essendon,47.21,86.65
-153,2026,19,Geelong Cats,Euro-Yroke,27.7055,74.55000000000001
-154,2026,19,Sydney Swans,Kuwarna,12.5205,61.25000000000001
-155,2026,19,Yartapuulti,Walyalup,-8.8985,42.05
-156,2026,19,North Melbourne,Narrm,-12.8375,38.85
-157,2026,19,Collingwood,Carlton,5.9085,54.949999999999996
-158,2026,19,Waalitj Marawar,Brisbane Lions,-56.626,9.5
-159,2026,19,Richmond,Hawthorn,-62.3575,7.8
-160,2026,19,Gold Coast SUNS,Western Bulldogs,3.4315,53.949999999999996
-161,2026,19,Essendon,GWS GIANTS,-30.5635,23.150000000000002
-162,2026,20,Kuwarna,Collingwood,3.6015,53.55
-163,2026,20,Narrm,Geelong Cats,-20.422,31.900000000000002
-164,2026,20,Walyalup,Waalitj Marawar,39.0165,81.0
-165,2026,20,Carlton,Gold Coast SUNS,-16.0775,34.55
-166,2026,20,Hawthorn,Essendon,42.7525,83.25
-167,2026,20,GWS GIANTS,Sydney Swans,-20.089,31.8
-168,2026,20,Western Bulldogs,Richmond,38.61,81.45
-169,2026,20,Brisbane Lions,Yartapuulti,27.212,73.9
-170,2026,20,North Melbourne,Euro-Yroke,-13.2895,37.9
-171,2026,21,Collingwood,Geelong Cats,-20.2535,32.6
-172,2026,21,Walyalup,Western Bulldogs,7.1925,55.2
-173,2026,21,Euro-Yroke,Sydney Swans,-16.122,36.0
-174,2026,21,Hawthorn,North Melbourne,27.64,73.55000000000001
-175,2026,21,Yartapuulti,GWS GIANTS,-8.048,43.75
-176,2026,21,Carlton,Brisbane Lions,-31.11,23.849999999999998
-177,2026,21,Richmond,Waalitj Marawar,-4.365,46.9
-178,2026,21,Gold Coast SUNS,Narrm,17.716,65.05
-179,2026,21,Essendon,Kuwarna,-31.4365,23.3
-180,2026,22,Western Bulldogs,North Melbourne,14.8115,62.150000000000006
-181,2026,22,Brisbane Lions,Hawthorn,0.3805,50.24999999999999
-182,2026,22,Narrm,Walyalup,0.555,49.75
-183,2026,22,Sydney Swans,Yartapuulti,20.5485,67.10000000000001
-184,2026,22,Geelong Cats,Essendon,44.7295,82.45
-185,2026,22,Kuwarna,Richmond,43.546,84.1
-186,2026,22,GWS GIANTS,Gold Coast SUNS,-14.235,37.2
-187,2026,22,Waalitj Marawar,Collingwood,-39.3815,19.15
-188,2026,22,Euro-Yroke,Carlton,1.1715,50.5
-189,2026,23,Brisbane Lions,Gold Coast SUNS,9.357,58.050000000000004
-190,2026,23,Essendon,Sydney Swans,-41.8345,16.0
-191,2026,23,GWS GIANTS,Waalitj Marawar,30.0655,73.9
-192,2026,23,Hawthorn,Collingwood,12.4285,59.3
-193,2026,23,North Melbourne,Geelong Cats,-40.667,17.150000000000002
-194,2026,23,Richmond,Euro-Yroke,-37.164,20.25
-195,2026,23,Western Bulldogs,Carlton,12.0875,59.8
-196,2026,23,Yartapuulti,Narrm,0.573,50.05
-197,2026,23,Walyalup,Kuwarna,9.539,57.49999999999999
-198,2026,24,Collingwood,Brisbane Lions,-20.067,31.75
-199,2026,24,Carlton,Walyalup,-15.6,35.6
-200,2026,24,Essendon,Yartapuulti,-25.098,28.599999999999998
-201,2026,24,Geelong Cats,Richmond,54.232,89.25
-202,2026,24,Narrm,Western Bulldogs,-5.778,44.6
-203,2026,24,Euro-Yroke,Gold Coast SUNS,-9.8705,40.45
-204,2026,24,Sydney Swans,North Melbourne,27.5755,73.7
-205,2026,24,Kuwarna,GWS GIANTS,5.177,53.300000000000004
-206,2026,24,Waalitj Marawar,Hawthorn,-60.2445,9.2
+114,2026,14,Western Bulldogs,Kuwarna,5.124,53.2
+115,2026,14,Geelong Cats,Gold Coast SUNS,20.054,69.3
+116,2026,14,Narrm,Essendon,26.055,74.55000000000001
+117,2026,14,North Melbourne,Waalitj Marawar,5.85,55.25
+118,2026,14,Yartapuulti,Sydney Swans,-14.3415,35.65
+119,2026,14,Richmond,Brisbane Lions,-61.3155,7.000000000000001
+120,2026,14,Euro-Yroke,GWS GIANTS,1.1315,49.95
+121,2026,15,Walyalup,Geelong Cats,-8.5265,42.05
+122,2026,15,Gold Coast SUNS,Hawthorn,-7.45,42.85
+123,2026,15,Kuwarna,Narrm,15.807,64.3
+124,2026,15,GWS GIANTS,Carlton,-1.0725,48.65
+125,2026,15,Collingwood,Yartapuulti,9.063,57.95
+126,2026,15,Richmond,North Melbourne,-26.775,26.400000000000002
+127,2026,15,Euro-Yroke,Western Bulldogs,-8.751,41.75
+128,2026,16,Brisbane Lions,Sydney Swans,7.6215,55.900000000000006
+129,2026,16,Hawthorn,GWS GIANTS,19.8395,68.55
+130,2026,16,Carlton,Waalitj Marawar,23.3225,70.3
+131,2026,16,Collingwood,Richmond,36.3215,80.5
+132,2026,16,Yartapuulti,Kuwarna,-12.7595,37.35
+133,2026,16,North Melbourne,Essendon,3.3145,53.05
+134,2026,16,Walyalup,Gold Coast SUNS,5.893,54.55
+135,2026,17,Geelong Cats,Brisbane Lions,8.865,57.550000000000004
+136,2026,17,Sydney Swans,Western Bulldogs,14.68,62.9
+137,2026,17,Waalitj Marawar,Kuwarna,-36.226,19.3
+138,2026,17,Hawthorn,Narrm,20.9495,69.75
+139,2026,17,GWS GIANTS,Walyalup,-14.0345,37.15
+140,2026,17,Gold Coast SUNS,Collingwood,5.3765,56.35
+141,2026,17,Richmond,Carlton,-37.648,17.0
+142,2026,17,Essendon,Euro-Yroke,-25.858,26.700000000000003
+143,2026,17,Yartapuulti,North Melbourne,11.2705,60.150000000000006
+144,2026,18,Walyalup,Sydney Swans,-2.1585,48.15
+145,2026,18,Collingwood,North Melbourne,13.201,63.3
+146,2026,18,Euro-Yroke,Yartapuulti,3.94,53.6
+147,2026,18,GWS GIANTS,Geelong Cats,-26.3295,25.8
+148,2026,18,Carlton,Hawthorn,-27.9775,24.55
+149,2026,18,Kuwarna,Gold Coast SUNS,1.224,51.05
+150,2026,18,Western Bulldogs,Waalitj Marawar,37.445,81.15
+151,2026,18,Narrm,Richmond,38.978,82.5
+152,2026,18,Brisbane Lions,Essendon,44.3285,85.2
+153,2026,19,Geelong Cats,Euro-Yroke,26.3275,73.5
+154,2026,19,Sydney Swans,Kuwarna,13.1735,62.5
+155,2026,19,Yartapuulti,Walyalup,-7.772,42.75
+156,2026,19,North Melbourne,Narrm,-15.637,34.849999999999994
+157,2026,19,Collingwood,Carlton,2.524,51.6
+158,2026,19,Waalitj Marawar,Brisbane Lions,-49.444,12.2
+159,2026,19,Richmond,Hawthorn,-61.771,7.85
+160,2026,19,Gold Coast SUNS,Western Bulldogs,5.615,54.75
+161,2026,19,Essendon,GWS GIANTS,-28.059,24.2
+162,2026,20,Kuwarna,Collingwood,2.3065,51.15
+163,2026,20,Narrm,Geelong Cats,-19.6385,32.7
+164,2026,20,Walyalup,Waalitj Marawar,35.917,79.2
+165,2026,20,Carlton,Gold Coast SUNS,-12.6655,36.95
+166,2026,20,Hawthorn,Essendon,39.0055,81.75
+167,2026,20,GWS GIANTS,Sydney Swans,-24.205,28.299999999999997
+168,2026,20,Western Bulldogs,Richmond,40.4255,83.05
+169,2026,20,Brisbane Lions,Yartapuulti,24.0785,72.39999999999999
+170,2026,20,North Melbourne,Euro-Yroke,-17.4175,32.75
+171,2026,21,Collingwood,Geelong Cats,-21.78,29.95
+172,2026,21,Walyalup,Western Bulldogs,11.026,58.35
+173,2026,21,Euro-Yroke,Sydney Swans,-14.6545,35.75
+174,2026,21,Hawthorn,North Melbourne,29.485,74.25
+175,2026,21,Yartapuulti,GWS GIANTS,-3.0575,45.9
+176,2026,21,Carlton,Brisbane Lions,-23.1845,28.7
+177,2026,21,Richmond,Waalitj Marawar,-9.811,40.8
+178,2026,21,Gold Coast SUNS,Narrm,15.678,63.4
+179,2026,21,Essendon,Kuwarna,-31.9965,23.599999999999998
+180,2026,22,Western Bulldogs,North Melbourne,18.7215,66.0
+181,2026,22,Brisbane Lions,Hawthorn,1.322,50.64999999999999
+182,2026,22,Narrm,Walyalup,-0.4385,48.449999999999996
+183,2026,22,Sydney Swans,Yartapuulti,19.714,66.25
+184,2026,22,Geelong Cats,Essendon,43.975,84.75
+185,2026,22,Kuwarna,Richmond,46.5495,83.8
+186,2026,22,GWS GIANTS,Gold Coast SUNS,-17.2745,33.4
+187,2026,22,Waalitj Marawar,Collingwood,-36.772,18.65
+188,2026,22,Euro-Yroke,Carlton,-1.8565,47.25
+189,2026,23,Brisbane Lions,Gold Coast SUNS,8.3325,57.9
+190,2026,23,Essendon,Sydney Swans,-41.0185,16.7
+191,2026,23,GWS GIANTS,Waalitj Marawar,21.4995,67.5
+192,2026,23,Hawthorn,Collingwood,8.8525,56.89999999999999
+193,2026,23,North Melbourne,Geelong Cats,-46.2485,14.05
+194,2026,23,Richmond,Euro-Yroke,-37.9815,19.900000000000002
+195,2026,23,Western Bulldogs,Carlton,7.7235,56.65
+196,2026,23,Yartapuulti,Narrm,1.845,50.8
+197,2026,23,Walyalup,Kuwarna,7.0035,56.699999999999996
+198,2026,24,Collingwood,Brisbane Lions,-16.3935,34.65
+199,2026,24,Carlton,Walyalup,-12.963,39.4
+200,2026,24,Essendon,Yartapuulti,-23.219,28.95
+201,2026,24,Geelong Cats,Richmond,57.5985,90.25
+202,2026,24,Narrm,Western Bulldogs,-2.095,47.65
+203,2026,24,Euro-Yroke,Gold Coast SUNS,-7.682,42.95
+204,2026,24,Sydney Swans,North Melbourne,30.0685,74.9
+205,2026,24,Kuwarna,GWS GIANTS,6.71,54.7
+206,2026,24,Waalitj Marawar,Hawthorn,-50.452,12.7
